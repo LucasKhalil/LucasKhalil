@@ -9,7 +9,5 @@ Atualmente cursando o 3° Período (preciso me lembrar de atualizar isso daqui a
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-LucasKhalil/LucasKhalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![goodbyeThere700](https://github.com/LucasKhalil/LucasKhalil/assets/141183048/44b3b869-0f88-4581-b492-19d1b95bed8c)
