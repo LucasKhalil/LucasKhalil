@@ -17,6 +17,5 @@ email: lucaskhalilazevedo20@gmail.com
 linkedin: www.linkedin.com/in/lucas-khalil-azevedo-dantas-b1b33a252
 
 Acho que isso é tudo, então
-GOODBYE THERE!!
 
 ![goodbyeThere700](https://github.com/LucasKhalil/LucasKhalil/assets/141183048/44b3b869-0f88-4581-b492-19d1b95bed8c)
