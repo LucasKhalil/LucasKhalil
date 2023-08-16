@@ -1,4 +1,9 @@
-                       ![helloThereGif](https://github.com/LucasKhalil/LucasKhalil/assets/141183048/66bac7dc-cc73-4110-9feb-b27c4e695b68)
+![helloThereGif](https://github.com/LucasKhalil/LucasKhalil/assets/141183048/66bac7dc-cc73-4110-9feb-b27c4e695b68)
+
+Me chamo Lucas Khalil Azevedo Dantas, bacharelando em Ciência da Computação pela Universidade Federal de Campina Grande (UFCG)
+Atualmente cursando o 3° Período (preciso me lembrar de atualizar isso daqui a uns meses)
+
+🐍  🍵 Tenho experiência em Python e Java  🐍  🍵
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
