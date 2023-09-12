@@ -1,12 +1,13 @@
 ![hellloThere700](https://github.com/LucasKhalil/LucasKhalil/assets/141183048/1ba7a3a2-8534-4638-b7b2-1d7af90a4cbf)
 
-Me chamo Lucas Khalil Azevedo Dantas, Bacharelando em Ciência da Computação pela Universidade Federal de Campna Grande.
-Em meus repositórios você irá encontrar desde algoritmos de prdenação e estruturas de dados até mesmo funções úteis para Álgebra Linear
+Me chamo Lucas Khalil Azevedo Dantas, Bacharelando em Ciência da Computação pela Universidade Federal de Campina Grande.
+Em meus repositórios você irá encontrar desde algoritmos de ordenação e estruturas de dados até mesmo funções úteis para Álgebra Linear
 
-      Sou capaz de programar em Java e Python e estou aprendendo GDScript
+      Programador Java e Python, aprendendo GDScript
 
-Atualmente sou bolsista em um projeto de pesquisa em minha universidade que visa a produção de uma aplicação de reconhecimento de espaços urbanos (Mais especificamente, Assentamentos Precários)
-você pode entrar em contato comigo através dos seguintes meios:
+Atualmente em projeto pela UFCG
+
+você pode entrar em contato comigo através de:
 email: lucaskhalilufcg@gmail.com
 linkedIn : www.linkedin.com/in/lucas-khalil-azevedo-dantas-b1b33a252
       
