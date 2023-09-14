@@ -5,7 +5,7 @@ Em meus repositórios você irá encontrar desde algoritmos de ordenação e est
 
       Programador Java e Python, aprendendo GDScript
 
-Atualmente em projeto pela UFCG
+Atualmente em projeto PIBITI pela UFCG
 
 você pode entrar em contato comigo através de:
 email: lucaskhalilufcg@gmail.com
